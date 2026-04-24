@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey%2C+I'm+Shivam+Malap+%F0%9F%91%8B;Cloud+%7C+IoT+%7C+Full-Stack+%7C+Builder)](https://github.com/Smalap)
+## 👋 Hey, I'm Shivam Malap! 🚀
+
+`[ Cloud Engineering · Electronics & Telecommunication Engineering · Full Stack · AI ]`
+
+<!-- Animated typing tagline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+Smarter+Solutions+%E2%98%81%EF%B8%8F;Cloud+%7C+IoT+%7C+Full-Stack+%7C+AI;Ship+it.+Learn+from+it.+Ship+it+better.)](https://github.com/Smalap)
 
 </div>
 
@@ -194,9 +198,9 @@ Currently building new projects in cloud & IoT space.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivammalap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-malap)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smalap)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammalap6gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live%20Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smalap.github.io/Smart-Attendance-Bunk-Planner/)
 
 </div>
