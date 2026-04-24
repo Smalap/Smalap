@@ -1,206 +1,216 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Shivam%20Malap&fontSize=55&fontColor=00d9ff&fontAlignY=35&desc=Cloud%20Engineer%20%7C%20IoT%20Builder%20%7C%20Web%20Developer&descSize=18&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-malap"><img src="https://img.shields.io/badge/-Shivam%20Malap-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Smalap"><img src="https://img.shields.io/badge/-Smalap-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://smalap.github.io/Smart-Attendance-Bunk-Planner/"><img src="https://img.shields.io/badge/-Live%20Project-00C853?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Smalap&style=flat-square&color=00d9ff&label=Profile+Views" alt="Views">
-</p>
+<!-- Animated typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey%2C+I'm+Shivam+Malap+%F0%9F%91%8B;Cloud+%7C+IoT+%7C+Full-Stack+%7C+Builder)](https://github.com/Smalap)
 
-<br>
-
-<table align="center">
-<tr><td>
-
-```js
-const shivam = {
-    role       : "Cloud Engineer & Developer",
-    experience : "Ex-Intern @ Dava Infotech Pvt. Ltd.",
-    cloud      : ["AWS", "Lambda", "Lex", "DynamoDB"],
-    languages  : ["Java", "JavaScript", "Python", "C", "SQL"],
-    iot        : ["ESP32", "Arduino", "Sensors"],
-    web        : ["HTML5", "CSS3", "JavaScript"],
-    databases  : ["MySQL", "DynamoDB"],
-    passion    : "Where software meets hardware ⚡",
-};
-```
-
-</td><td>
-
-### ⚡ Quick Facts
-
-🏢 Former **Cloud Engineer Intern**<br>
-☁️ I build on **AWS** — serverless & scalable<br>
-🔧 I connect **hardware to cloud**<br>
-🌐 I ship **web tools** people actually use<br>
-🤖 I make **chatbots** that talk smart<br>
-🏥 I build **IoT** that saves lives<br>
-📦 I believe in **shipping, not just planning**
-
-</td></tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ Arsenal</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**☁️ Cloud**
-<br><br>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/>
-<br>
-`Lambda` `Lex` `DynamoDB`
-`S3` `CloudWatch`
-
-</td>
-<td align="center" width="180">
-
-**💻 Languages**
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,js,python,c" height="40"/>
-<br>
-`Java` `JavaScript`
-`Python` `C` `SQL`
-
-</td>
-<td align="center" width="180">
-
-**🌐 Web**
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40"/>
-<br>
-`HTML5` `CSS3`
-`Responsive Design`
-
-</td>
-<td align="center" width="180">
-
-**🔧 IoT & Tools**
-<br><br>
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" height="40"/>
-<br>
-`ESP32` `Arduino`
-`Git` `VS Code`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">🚀 What I've Built</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🤖 Railway Ticket Booking Chatbot
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Lex-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-</p>
-
-AI-powered conversational bot that handles ticket booking through natural language. Serverless backend with Lambda, persistent storage with DynamoDB.
-
-</td>
-<td width="50%">
-
-### 🏥 ESP32 Remote Health Monitor
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=icloud&logoColor=white"/>
-</p>
-
-IoT system that monitors heart rate, temperature & SpO2 in real time. Wireless transmission to cloud dashboard for remote doctor access.
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📊 Smart Attendance & Bunk Planner &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C853?style=flat-square)](https://smalap.github.io/Smart-Attendance-Bunk-Planner/)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-Web tool that helps students track subject-wise attendance, calculate safe bunks, and plan recovery to stay above 75%. Zero dependencies — works in any browser.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">📊 Stats & Streaks</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smalap&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="190"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smalap&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00d9ff&title_color=00d9ff" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smalap&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smalap&theme=tokyo-night&hide_border=true&color=00d9ff&line=00d9ff&point=ffffff" width="95%"/>
-</p>
-
-<br>
-
-<h2 align="center">🏆 Leveling Up</h2>
-
-<table align="center">
-<tr>
-<th>🎯 Domain</th>
-<th>📚 Focus Area</th>
-<th>📈 Status</th>
-</tr>
-<tr><td>☁️ AWS</td><td>Serverless architecture & deployment</td><td><code>🔥 Active</code></td></tr>
-<tr><td>☕ Java</td><td>OOP, Collections, Design Patterns</td><td><code>🟢 Ongoing</code></td></tr>
-<tr><td>🌐 Full Stack</td><td>React, Node.js, Firebase</td><td><code>📖 Learning</code></td></tr>
-<tr><td>🔧 IoT</td><td>ESP32, sensor networks, dashboards</td><td><code>🔥 Active</code></td></tr>
-<tr><td>🐍 Python</td><td>Automation, scripting, APIs</td><td><code>🟢 Ongoing</code></td></tr>
-<tr><td>🗄️ Databases</td><td>MySQL, DynamoDB, query optimization</td><td><code>📖 Learning</code></td></tr>
-</table>
-
-<br>
-
-<h2 align="center">💡 What Drives Me</h2>
-
-```
-   ╔═══════════════════════════════════════════════════════════════╗
-   ║                                                               ║
-   ║   ☁️  Architect cloud solutions that scale                    ║
-   ║   🔧  Bridge the gap between hardware & software              ║
-   ║   🌐  Build tools people actually want to use                 ║
-   ║   🚀  Ship fast, iterate faster                               ║
-   ║   🧠  Never stop learning — one new thing every day           ║
-   ║   🤝  Grow by helping others grow                             ║
-   ║                                                               ║
-   ╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br>
+</div>
 
 ---
 
-<p align="center">
-  <b>🗣️ "The best way to predict the future is to build it."</b>
-  <br><br>
-  <a href="https://linkedin.com/in/shivam-malap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Smalap"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🧑‍💻 whoami
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=120&section=footer" width="100%"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding illustration"/>
+
+```python
+class Shivam:
+    name        = "Shivam Malap"
+    college     = "RMD Sinhgad School of Engineering, Pune"
+    branch      = "Electronics & Telecommunication Engg."
+    role        = "Cloud Engineer · Full-Stack Dev · IoT Builder"
+    experience  = "Ex-Intern @ Dava Infotech Pvt. Ltd."
+    cloud       = ["AWS Lex", "Lambda", "DynamoDB", "S3"]
+    languages   = ["Java", "JavaScript", "Python", "C", "SQL"]
+    hardware    = ["ESP32", "Arduino", "Embedded C"]
+    currently   = "Building things that work — cloud to hardware"
+    motto       = "Ship it. Learn from it. Ship it better."
+```
+
+<br clear="both"/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**☁️ Cloud & Backend**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**💻 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**🌐 Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🔧 Hardware & IoT**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Railway Ticket Booking Chatbot
+AI-powered conversational bot for booking railway tickets through natural language.
+
+**Tech:** `AWS Lex` · `Lambda` · `DynamoDB`
+
+- Serverless backend with Lambda intent handlers
+- DynamoDB for booking storage & session management
+- Natural language understanding for ticket flows
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 ESP32 Remote Health Monitor
+IoT system for real-time remote patient vital monitoring.
+
+**Tech:** `ESP32` · `Sensors` · `Cloud Dashboard`
+
+- Heart rate, temperature & SpO2 tracking
+- Wireless data transmission to cloud
+- Remote access dashboard for doctors
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Smart Attendance & Bunk Planner
+Web tool to track attendance & plan bunks to stay above 75%.
+
+**Tech:** `HTML` · `CSS` · `JavaScript`
+
+- Subject-wise tracking with aggregate view
+- Bunk calculator & recovery planner
+- 🔗 [**Live Demo**](https://smalap.github.io/Smart-Attendance-Bunk-Planner/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔜 More Coming Soon...
+Currently building new projects in cloud & IoT space.
+
+**Exploring:** `React` · `Node.js` · `Firebase`
+
+- Full-stack web applications
+- Cloud-native architectures
+- IoT + Cloud integrations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Currently Leveling Up
+
+<div align="center">
+
+| Domain | What I'm Working On | Status |
+|:---:|:---|:---:|
+| ☁️ **AWS** | Architecting serverless solutions & cloud deployments | 🔥 Active |
+| ⚡ **IoT** | ESP32 projects with cloud integration | 🔥 Active |
+| 🌐 **Full-Stack** | React, Node.js & Firebase | 📖 Learning |
+| ☕ **Java** | OOP, Collections & Design Patterns | ✅ Ongoing |
+| 🐍 **Python** | Automation, scripting & API development | ✅ Ongoing |
+| 🧮 **DSA** | Arrays, Trees & Dynamic Programming | ⚡ Daily |
+
+</div>
+
+---
+
+## 💡 What Drives Me
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ☁️  Build cloud-native apps that scale                     ║
+║   🔌  Connect hardware to the internet                       ║
+║   🛠️  Ship tools that solve real problems                    ║
+║   🧠  Crack DSA challenges every single day                  ║
+║   🤝  Collaborate, contribute & grow together                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Smalap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" alt="stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smalap&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="streak">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smalap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages">
+
+<br>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Smalap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c8ff&line=00c8ff&point=ffffff" width="95%" alt="contribution graph">
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivammalap)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smalap)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivammalap6gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live%20Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smalap.github.io/Smart-Attendance-Bunk-Planner/)
+
+</div>
+
+---
+
+<div align="center">
+
+> 🗨️ *"The best way to predict the future is to build it."* — Alan Kay
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Smalap&style=flat-square&color=00c8ff)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%"/>
+
+</div>
